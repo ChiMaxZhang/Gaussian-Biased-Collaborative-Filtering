@@ -8,23 +8,23 @@ Chi Zhang 	u7373323
 	  Enze Tao  	u7543832     
 	  Pengxiao Han	u7407063     
 
-Date: 28/05/2023
+#Date: 28/05/2023
 
-Algorithm:	
-    Gaussian-Bias.ipynb
-    Normal-Bias.ipynb
-    visualize.py
+#Algorithm:	
+    Gaussian-Bias.ipynb  
+    Normal-Bias.ipynb  
+    visualize.py  
 
-CSV files:	
-        Gau_biased_data_n10.csv
-        Gau_biased_data_n20.csv
-        Gau_biased_data_n30.csv
-		    Gau_biased_data_n50.csv
-		    Nor_biased_data_n10.csv
-		     Nor_biased_data_n20.csv
-		    Nor_biased_data_n30.csv
-		    Nor_biased_data_n50.csv
-		    pridicted_ratings.csv
+#CSV files:	
+        Gau_biased_data_n10.csv  
+        Gau_biased_data_n20.csv  
+        Gau_biased_data_n30.csv  
+		    Gau_biased_data_n50.csv  
+		    Nor_biased_data_n10.csv  
+		     Nor_biased_data_n20.csv    
+		    Nor_biased_data_n30.csv  
+		    Nor_biased_data_n50.csv  
+		    pridicted_ratings.csv  
 
 Gaussian-Bias.ipynb and Normal-Bias.ipynb are code to demonstrate our model, 
 which includes data preprocessing, file revised, SVD, SVD++ and RBM.

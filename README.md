@@ -16,15 +16,15 @@ Algorithm:
     visualize.py
 
 CSV files:	
-    Gau_biased_data_n10.csv
-    Gau_biased_data_n20.csv
-    Gau_biased_data_n30.csv
-		Gau_biased_data_n50.csv
-		Nor_biased_data_n10.csv
-		Nor_biased_data_n20.csv
-		Nor_biased_data_n30.csv
-		Nor_biased_data_n50.csv
-		pridicted_ratings.csv
+        Gau_biased_data_n10.csv
+        Gau_biased_data_n20.csv
+        Gau_biased_data_n30.csv
+		    Gau_biased_data_n50.csv
+		    Nor_biased_data_n10.csv
+		     Nor_biased_data_n20.csv
+		    Nor_biased_data_n30.csv
+		    Nor_biased_data_n50.csv
+		    pridicted_ratings.csv
 
 Gaussian-Bias.ipynb and Normal-Bias.ipynb are code to demonstrate our model, 
 which includes data preprocessing, file revised, SVD, SVD++ and RBM.

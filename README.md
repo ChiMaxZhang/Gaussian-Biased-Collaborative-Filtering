@@ -2,9 +2,9 @@
 This project introduces a novel approach, Gaussian Biased Collaborative filtering, to movie recommendation systems using Singular Value Decomposition++ (SVD++) and Restricted Boltzmann Machines (RBM) and the inclusion of Gaussian biases on the MovieLens-100k dataset.
 
 
-Author: Chi Zhang 	u7373323 //
-	  Enze Tao  	u7543832 //
-	  Pengxiao Han	u7407063 //
+Author: Chi Zhang 	u7373323    
+	  Enze Tao  	u7543832     
+	  Pengxiao Han	u7407063     
 
 Date: 28/05/2023
 

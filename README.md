@@ -4,10 +4,10 @@ This project introduces a novel approach, Gaussian Biased Collaborative filterin
 
 #Author:
 
-Chi Zhang 	
-Enze Tao  	
-Pengxiao Han	
-
+Chi Zhang     
+Enze Tao      
+Pengxiao Han    
+ 
 #Date: 28/05/2023
 
 #Algorithm:	
